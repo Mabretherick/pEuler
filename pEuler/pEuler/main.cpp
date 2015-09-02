@@ -5,10 +5,12 @@
 ******************************************************/
 #include <iostream>
 #include "prob1.h"
+#include "prob2.h"
 
 int main() {
 
-	prob1();
+	//prob1();
+	//prob2();
 
 	system("pause");
 	return 0;
