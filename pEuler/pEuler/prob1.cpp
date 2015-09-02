@@ -1,8 +1,10 @@
-//Euler1  
-//Problem 1 solver for Project Euler.
+/******************************************************
+/		Euler1  
+/		Problem 1 solution for Project Euler. 
+******************************************************/
 #include <iostream>
 
-int main() {
+void prob1() {
 
 	int answer = 0;
 
@@ -15,5 +17,4 @@ int main() {
 
 	std::cout << answer << std::endl;
 
-	return 0;
 }
